@@ -12,7 +12,7 @@ No backend required — runs entirely in the browser using localStorage.
 
 ## 🚀 Live Demo (GitHub Pages)
 
-👉 **https://YOUR_USERNAME.github.io/cybershield/**
+👉 **https://kellyyadav.github.io/cybershield/**
 
 ---
 
@@ -103,4 +103,4 @@ cybershield/
 
 ---
 
-*Made with ❤️ for college project — by [Your Name]*
+*Made with ❤️ for college project — by Kellyyadav
